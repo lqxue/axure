@@ -167,6 +167,16 @@
   width:97px;
   white-space:nowrap;
 }
+.u646 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:20px;
+  width:375px;
+  height:70px;
+  overflow:hidden;
+  background-image:url('../../resources/images/transparent.gif');
+}
 #u640-1 {
   border-width:0px;
   position:absolute;
@@ -282,14 +292,4 @@
   background-color:rgba(237, 237, 237, 1);
   border:none;
   border-radius:0px;
-}
-#u646 {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:-10px;
-  width:375px;
-  height:1052px;
-  overflow:hidden;
-  background-image:url('../../resources/images/transparent.gif');
 }
