@@ -13,7 +13,7 @@
   position:absolute;
   z-index:0;
 }
-#u304 {
+#u301 {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -21,7 +21,7 @@
   width:0px;
   height:0px;
 }
-#u305_div {
+#u302_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -36,7 +36,7 @@
   -webkit-box-shadow:none;
   box-shadow:none;
 }
-#u305 {
+#u302 {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -44,7 +44,7 @@
   width:375px;
   height:110px;
 }
-#u305_text {
+#u302_text {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -53,7 +53,7 @@
   visibility:hidden;
   word-wrap:break-word;
 }
-#u306_div {
+#u303_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -72,7 +72,7 @@
   font-style:normal;
   font-size:16px;
 }
-#u306 {
+#u303 {
   border-width:0px;
   position:absolute;
   left:20px;
@@ -84,7 +84,7 @@
   font-style:normal;
   font-size:16px;
 }
-#u306_text {
+#u303_text {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -92,7 +92,7 @@
   width:65px;
   white-space:nowrap;
 }
-#u307_div {
+#u304_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -111,7 +111,7 @@
   font-style:normal;
   font-size:12px;
 }
-#u307 {
+#u304 {
   border-width:0px;
   position:absolute;
   left:20px;
@@ -123,7 +123,7 @@
   font-style:normal;
   font-size:12px;
 }
-#u307_text {
+#u304_text {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -131,7 +131,7 @@
   width:121px;
   white-space:nowrap;
 }
-#u308_div {
+#u305_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -150,7 +150,7 @@
   font-style:normal;
   font-size:12px;
 }
-#u308 {
+#u305 {
   border-width:0px;
   position:absolute;
   left:20px;
@@ -162,7 +162,7 @@
   font-style:normal;
   font-size:12px;
 }
-#u308_text {
+#u305_text {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -170,7 +170,7 @@
   width:99px;
   white-space:nowrap;
 }
-#u309_div {
+#u306_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -189,7 +189,7 @@
   font-style:normal;
   color:#1ABC9C;
 }
-#u309 {
+#u306 {
   border-width:0px;
   position:absolute;
   left:300px;
@@ -201,7 +201,7 @@
   font-style:normal;
   color:#1ABC9C;
 }
-#u309_text {
+#u306_text {
   border-width:0px;
   position:absolute;
   left:0px;
